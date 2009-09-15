@@ -1,0 +1,9 @@
+MIDlet-Name: bummerbutton-bb
+MIDlet-Version: 0.0
+MIDlet-Vendor: <unknown>
+MIDlet-Jar-URL: bummerbutton-bb.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,bin/img/buttonup.png,
+RIM-MIDlet-Flags-1: 0
